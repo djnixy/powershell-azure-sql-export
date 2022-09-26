@@ -1,7 +1,7 @@
 # powershell-azure-sql-export
 Powershell script for Azure Automation Account.
 
-What the script does:
+What the script does:<br />
 Export Azure SQL database to a blob container, create the blob container if necessary. Delete older backup.
 Email notification after export is done.
 
